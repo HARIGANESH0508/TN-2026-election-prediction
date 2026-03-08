@@ -144,9 +144,7 @@ Historical Tamil Nadu Assembly Election data (1971–2021) compiled from Electio
 
 **Hari Ganesh**
 - Course: Machine Learning
-- 📧 [your email here]
-- 🔗 [LinkedIn profile here]
-
+- 📧 [hariganesh4567@gmail.com]
 ---
 
 ## 🤝 Contributing
